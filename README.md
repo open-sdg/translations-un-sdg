@@ -1,4 +1,4 @@
-# SDG Translations - UN
+# Translations - UN SDG
 
 A repository of translations of UN-controlled metadata about the Sustainable
 Development Goals (SDGs).
