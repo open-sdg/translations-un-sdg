@@ -1,6 +1,6 @@
 # Translations - UN SDG
 
-A repository of translations of UN-controlled metadata about the Sustainable
+A repository of translations of UN-created metadata about the Sustainable
 Development Goals (SDGs).
 
 ## History
