@@ -89,28 +89,35 @@
   policies
 12-2-1-title: Material footprint, material footprint per capita, and material footprint
   per GDP
-12-2-2-title: Domestic material consumption, domestic material consumption per capita,
-  and domestic material consumption per GDP
+12-2-2-a-title: Consumo materiale interno pro capite
+12-2-2-b-title: Consumo materiale interno per unità di PIL
+12-2-2-c-title: Consumo materiale interno
 12-3-1-title: Global food loss index
 12-4-1-title: Number of parties to international multilateral environmental agreements
   on hazardous waste, and other chemicals that meet their commitments and obligations
   in transmitting information as required by each relevant agreement
-12-4-2-title: Hazardous waste generated per capita and proportion of hazardous waste
-  treated, by type of treatment
-12-5-1-title: National recycling rate, tons of material recycled
-12-6-1-title: Number of companies publishing sustainability reports
-12-7-1-title: Number of countries implementing sustainable public procurement policies
-  and action plans
+12-4-2-title: Produzione di rifiuti speciali pericolosi in funzione del destino
+12-5-1-a-title: Percentuale di (i) rifiuti riciclati e (ii) urbani differenziati
+12-5-1-b-title: Ammontare dei rifiuti urbani
+12-6-1-a-title: Numero di organizzazioni o imprese registrate EMAS
+12-6-1-b-title: "Istituzioni pubbliche che adottano forme di rendicontazione sociale
+  e/o ambientale"
+12-7-1-title: Istituzioni pubbliche che acquistano beni e/o servizi adottando criteri
+  ambientali minimi (CAM), in almeno una procedura di acquisto (Acquisti verdi o Green
+  Public Procurement)
 12-8-1-title: Extent to which (i) global citizenship education and (ii) education
   for sustainable development (including climate change education) are mainstreamed
   in (a) national education policies; (b) curricula; (c) teacher education; and (d)
   student assessment
-12-a-1-title: Amount of support to developing countries on research and development
-  for sustainable consumption and production and environmentally sound technologies
-12-b-1-title: Number of sustainable tourism strategies or policies and implemented
-  action plans with agreed monitoring and evaluation tools
-12-c-1-title: Amount of fossil-fuel subsidies per unit of GDP (production and consumption)
-  and as a proportion of total national expenditure on fossil fuels
+12-a-1-title: Aiuto Pubblico allo Sviluppo (APS) erogazioni lorde per la
+  ricerca nei diversi settori di intervento
+12-b-1-a-title: Incidenza del turismo sui rifiuti
+12-b-1-b-title: Indice di intensità turistica
+12-b-1-c-title: Presenze in esercizi ricettivi open air, agriturismi e rifugi
+  montani sul totale delle presenze in esercizi ricettivi
+12-b-1-d-title: Viaggi per turismo in Italia per tipologia di viaggio e
+  principale mezzo di trasporto
+12-c-1-title: Sussidi alle fonti fossili per unità di PIL
 13-1-1-a-title: Gas serra totali secondo l'inventario nazionale delle emissioni (UNFCCC)
 13-1-1-b-title: Saldo tra le emissioni dovute ad attività di trasporto effettuate
   nel Resto del Mondo dai residenti (+) e in Italia dai non residenti (-)
