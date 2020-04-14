@@ -318,11 +318,10 @@
 2-c-1-title: Indicator of food price anomalies
 3-1-1-title: Maternal mortality ratio
 3-1-2-title: Proportion of births attended by skilled health personnel
-3-2-1-title: Under‐five mortality rate
-3-2-2-title: Neonatal mortality rate
-3-3-1-title: Number of new HIV infections per 1,000 uninfected population, by sex,
-  age and key populations
-3-3-2-title: Tuberculosis incidence per 100,000 population
+3-2-1-title: Probabilità di morte sotto i 5 anni
+3-2-2-title: Tasso di mortalità neonatale
+3-3-1-title: Incidenza delle infezioni da HIV per 100.000 residenti (per regione di residenza)
+3-3-2-title: Incidenza tubercolosi
 3-3-3-title: Malaria incidence per 1,000 population
 3-3-4-title: Hepatitis B incidence per 100,000 population
 3-3-5-title: Number of people requiring interventions against neglected tropical diseases
